@@ -1,5 +1,5 @@
 ### Hi my name is Dan 👋
-I am a second year PhD in the Statistics department at UCLA.
+I am a third year PhD in the Statistics department at UCLA.
 🔭 I’m currently working on deep learning theory
 <!--
 **dc165/dc165** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
